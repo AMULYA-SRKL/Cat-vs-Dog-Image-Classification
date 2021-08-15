@@ -1,1 +1,1 @@
-# Face-Mask-Detection
+# Cat vs Dog Image Classification
